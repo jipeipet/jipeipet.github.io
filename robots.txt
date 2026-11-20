@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /thanks.html
 
-Sitemap: https://jipeipet.github.io/sitemap.xml
+Sitemap: https://xpetz-pet.github.io/sitemap.xml
